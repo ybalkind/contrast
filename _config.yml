@@ -1,5 +1,5 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "Yoni's mind"
+author: "Yoni Balkind"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/niklasbuschmann\">@niklasbuschmann</a></b>"
 permalink: /:title/
 lang: "en"
@@ -16,8 +16,8 @@ show_title: false            # always keep the site title visible
 
 # Styling
 
-dark_header: false           # always keep the header dark
-minimal: false               # use simpler style
+dark_header: true           # always keep the header dark
+minimal: true               # use simpler style
 
 # Menu
 
